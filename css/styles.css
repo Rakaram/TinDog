@@ -1,6 +1,7 @@
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat";
   font-weight: 900;
+
 }
 
 p {
@@ -9,6 +10,7 @@ p {
 
 body {
   font-family: "Montserrat";
+  text-align: center;
 }
 
 /*   Headings */
@@ -90,7 +92,7 @@ body {
 }
 
 .feature-list {
-  padding: 5%;
+  padding: 4.5%;
 }
 
 .icons:hover {
@@ -142,14 +144,7 @@ body {
   line-height: 1.5;
 }
 
-#cta {
-  background-color: #ff4c68;
-  color: #fff;
-}
 
-#footer {
-  background-color: #fff;
-}
 
 .footer-button {
   margin: 20px 10px;
